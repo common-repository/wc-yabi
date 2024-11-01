@@ -1,0 +1,454 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yabi for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-02 13:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.5.3"
+
+#: content/information.php:130
+msgid "About the plugin"
+msgstr ""
+
+#: content/product-invoice-old.php:53 content/product-invoice.php:84
+#: content/product.php:200
+msgid "Address"
+msgstr ""
+
+#: content/settings.php:117
+msgid "Automatic"
+msgstr ""
+
+#: content/information.php:37
+msgid ""
+"Automatic: Generates automatic invoices, this depends on whether the data "
+"has been filled out correctly."
+msgstr ""
+
+#: content/settings.php:161
+msgid "Business Unit Uuid"
+msgstr ""
+
+#: content/information.php:24
+msgid "Cash: The payment is made immediately."
+msgstr ""
+
+#: content/product.php:207
+msgid "City"
+msgstr ""
+
+#: content/product-invoice-old.php:60
+msgid "City Code"
+msgstr ""
+
+#: content/information.php:57 content/information.php:81
+msgid "Click in button &quot;Save&quot;."
+msgstr ""
+
+#: content/information.php:74
+msgid "Click on &quot;Business Units&quot;."
+msgstr ""
+
+#: content/information.php:75
+msgid ""
+"Click on a business unit, this displays the information of the business unit."
+msgstr ""
+
+#: content/information.php:107
+msgid "Click on the \"Save\" button to save the information of the fields"
+msgstr ""
+
+#: content/information.php:108
+msgid ""
+"Click on the button \"Save and generate\" for when you are sure to generate "
+"the invoice, after the invoice is generated you will not be able to edit the "
+"fields again."
+msgstr ""
+
+#: content/information.php:103
+msgid "Click on the order to open the details"
+msgstr ""
+
+#: content/information.php:101
+msgid "Click on WooCommerce orders"
+msgstr ""
+
+#: content/settings.php:145
+msgid "Client"
+msgstr ""
+
+#: content/information.php:146
+msgid "Code QR"
+msgstr ""
+
+#: content/product-invoice.php:13 content/product.php:128
+msgid "Commercial Name"
+msgstr ""
+
+#: content/settings.php:154
+msgid "Company"
+msgstr ""
+
+#: content/information.php:79
+msgid ""
+"Copy and paste  the personalized Token in the text field &quot;Token&quot;."
+msgstr ""
+
+#: content/information.php:76
+msgid "Copy the code of the business unit."
+msgstr ""
+
+#: content/information.php:80
+msgid "Copy the example URL client in the text field &quot;URL client&quot;."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create your electronic invoices of purchases made in woocommerce with Yabi"
+msgstr ""
+
+#: content/settings.php:89
+msgid "Credit"
+msgstr ""
+
+#: content/settings.php:95
+msgid "Credit days"
+msgstr ""
+
+#: content/information.php:106
+msgid ""
+"Depending on the type of person, you must complete the additional information"
+msgstr ""
+
+#: content/product-invoice-old.php:39 content/product-invoice.php:70
+#: content/product.php:186
+msgid "Email"
+msgstr ""
+
+#: content/information.php:73
+msgid "Enter the Yabi system"
+msgstr ""
+
+#: content/information.php:55
+msgid ""
+"Fill the text field \"Invoice Name\" with the invoice name. Example: \"SETT-"
+"\", \"SE\""
+msgstr ""
+
+#: content/information.php:56
+msgid ""
+"Fill the text field with the consecutive invoice. Example: if the "
+"consecutive number is 25, please fill the text field with 26."
+msgstr ""
+
+#: content/information.php:102
+msgid ""
+"Find the order in the completed state for which you want to generate an "
+"invoice"
+msgstr ""
+
+#: content/information.php:54 content/information.php:77
+msgid "Go to"
+msgstr ""
+
+#: content/information.php:92
+msgid "How to generate an invoice?"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://datakun.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://mireunion.com/yabi"
+msgstr ""
+
+#: content/settings.php:103 content/information.php:28
+msgid "I agree to modify the checkout"
+msgstr ""
+
+#: includes/woo.php:72 content/product-invoice-old.php:32
+#: content/product-invoice.php:63 content/product.php:178
+msgid "Identifier"
+msgstr ""
+
+#: includes/woo.php:83
+msgid "Identifier digit"
+msgstr ""
+
+#: includes/woo.php:112
+msgid "Identifier field must contain a positive number of at least 5 digits."
+msgstr ""
+
+#: includes/woo.php:104
+msgid "Identifier is a required Field!"
+msgstr ""
+
+#: content/settings.php:88
+msgid "In cash"
+msgstr ""
+
+#: content/information.php:25
+msgid ""
+"In Credit: The payment is credited and you can select the number of days of "
+"the credit, generally it is 30 days"
+msgstr ""
+
+#: content/information.php:4 content/admin.php:18
+msgid "Information"
+msgstr ""
+
+#: content/information.php:67
+msgid "Instructions for client"
+msgstr ""
+
+#: content/information.php:47
+msgid "Instructions for invoice"
+msgstr ""
+
+#: content/information.php:17
+msgid "Instructions for settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "Integrate Yabi for WooCommerce"
+msgstr ""
+
+#: content/settings.php:124
+msgid "Invoice"
+msgstr ""
+
+#: content/settings.php:130
+msgid "Invoice Name"
+msgstr ""
+
+#: content/product-invoice-old.php:88 content/settings.php:137
+#: content/product-invoice.php:124
+msgid "Invoice Number"
+msgstr ""
+
+#: content/product-invoice-old.php:95 content/product-invoice.php:131
+msgid "Invoice Serial"
+msgstr ""
+
+#: content/settings.php:113 content/information.php:34
+msgid "Invoice type"
+msgstr ""
+
+#: content/information.php:21
+msgid "Invoices can be defined in Cash or In Credit"
+msgstr ""
+
+#: content/product-invoice-old.php:20 content/product-invoice.php:40
+#: content/product.php:149
+msgid "Last Name"
+msgstr ""
+
+#: includes/woo.php:26
+msgid "Legal Entity"
+msgstr ""
+
+#: content/settings.php:116
+msgid "Manual"
+msgstr ""
+
+#: content/information.php:38
+msgid "Manual: Generate invoices manually in order administration"
+msgstr ""
+
+#. Author of the plugin
+msgid "Mex Avila"
+msgstr ""
+
+#: content/product-invoice-old.php:13 content/product-invoice.php:22
+#: content/product.php:135
+msgid "Name"
+msgstr ""
+
+#: includes/woo.php:25
+msgid "Natural Person"
+msgstr ""
+
+#: content/settings.php:106
+msgid "No"
+msgstr ""
+
+#: content/product-invoice-old.php:81 content/product-invoice.php:115
+#: content/product.php:243
+msgid "Note Description"
+msgstr ""
+
+#: content/product-invoice-old.php:74 content/product-invoice.php:104
+#: content/product.php:236
+msgid "Note Name"
+msgstr ""
+
+#: content/product-invoice-old.php:67 content/product-invoice.php:93
+#: content/product.php:229
+msgid "Observations"
+msgstr ""
+
+#: content/information.php:78
+msgid ""
+"Paste the previously copied code in the text field &quot;Business Unit "
+"Uuid&quot;."
+msgstr ""
+
+#: content/settings.php:85
+msgid "Payment type"
+msgstr ""
+
+#: content/settings.php:155
+msgid "Person"
+msgstr ""
+
+#: wc-yabi.php:220
+msgid ""
+"Please enter the Yabi plugin configuration, as you need to enter new data "
+"for it to work correctly"
+msgstr ""
+
+#: content/product.php:222
+msgid "Postcode"
+msgstr ""
+
+#: content/product.php:252
+msgid "Save"
+msgstr ""
+
+#: content/product.php:254
+msgid "Save & Generate"
+msgstr ""
+
+#: includes/woo.php:49 content/product-invoice.php:49 content/product.php:156
+msgid "Second Last Name"
+msgstr ""
+
+#: includes/woo.php:38 content/product-invoice.php:31 content/product.php:142
+msgid "Second Name"
+msgstr ""
+
+#: includes/woo.php:23
+msgid "Select the type of person"
+msgstr ""
+
+#: content/admin.php:4
+msgid "Setting saved!"
+msgstr ""
+
+#: content/settings.php:73 content/settings.php:79 content/admin.php:19
+msgid "Settings"
+msgstr ""
+
+#: content/information.php:54 content/information.php:77
+msgid "settings page"
+msgstr ""
+
+#: content/information.php:135
+msgid "Support this plugin"
+msgstr ""
+
+#: content/product-invoice-old.php:46 content/product-invoice.php:77
+#: content/product.php:193
+msgid "Telephone"
+msgstr ""
+
+#: content/information.php:51
+msgid ""
+"The fields of the invoice are the name and the consecutive number of the "
+"invoice, before the DIAN the requirement for the numbering had to be passed. "
+"Please fill in the corresponding data. Example: SETT-26."
+msgstr ""
+
+#: content/information.php:96
+msgid "The process to generate an invoice."
+msgstr ""
+
+#: content/information.php:98
+msgid ""
+"The WooCommerce purchase must be in a completed state, in order to generate "
+"the electronic invoice. (Automatic or Manual)"
+msgstr ""
+
+#: content/information.php:31
+msgid ""
+"This option allows you to modify the default Woocommerce form to allow the "
+"custom fields that Yabi uses, such as IDs or NIT. It also displays the "
+"departments and municipalities of Colombia with their respective DIAN codes. "
+"It also generates a link so that people can generate the address as "
+"necessary for the DIAN."
+msgstr ""
+
+#: content/information.php:109
+msgid "To download the invoice you have to enter the Yabi platform"
+msgstr ""
+
+#: content/information.php:72
+msgid ""
+"To get started, contact Yabi to send you the personalized Token of your "
+"account by email."
+msgstr ""
+
+#: content/settings.php:169
+msgid "Token"
+msgstr ""
+
+#: includes/woo.php:60 content/product-invoice-old.php:27
+#: content/product-invoice.php:58 content/product.php:163
+msgid "Type of document"
+msgstr ""
+
+#: includes/woo.php:99
+msgid "Type of document is a required Field!"
+msgstr ""
+
+#: content/settings.php:151
+msgid "Type of Owner"
+msgstr ""
+
+#: content/product.php:113
+msgid "Type of person"
+msgstr ""
+
+#: includes/woo.php:94
+msgid "Type of person is a required Field!"
+msgstr ""
+
+#: content/settings.php:177
+msgid "URL client"
+msgstr ""
+
+#: content/information.php:104
+msgid ""
+"When displaying the order information, the Yabi module will be displayed at "
+"the bottom"
+msgstr ""
+
+#: content/information.php:73
+msgid "with your username and password."
+msgstr ""
+
+#: wc-yabi.php:94
+msgid "Yabi - Invoice Data"
+msgstr ""
+
+#: content/admin.php:15
+msgid "Yabi for WooCommerce"
+msgstr ""
+
+#: content/settings.php:107
+msgid "Yes"
+msgstr ""
+
+#: content/information.php:105
+msgid "You must select the type of person"
+msgstr ""
